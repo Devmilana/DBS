@@ -2,7 +2,8 @@
 
 Part of my Software Engineering degree at Curtin University Colombo in 2024.
 
-This unit focused on **the design, use, and maintenance of relational databases** in software development. My final mark was **82**.
+This unit focused on **the design, use, and maintenance of relational databases** in software development. 
+My final mark was **82%**.
 
 ---
 
